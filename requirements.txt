@@ -1,0 +1,11 @@
+langchain-groq
+langchain-community
+python-dotenv
+uvicorn #API setup - to be used when we create the backend of our app
+fastapi #for creating api structure of our app
+pydantic
+streamlit
+langgraph
+langchain-core
+langchain-tavily
+requests
